@@ -1,5 +1,7 @@
 package notam
 
+//generated with https://mholt.github.io/json-to-go/
+
 //Notam Struct for Notamlist
 type Notam struct {
 	Notamlist []struct {
